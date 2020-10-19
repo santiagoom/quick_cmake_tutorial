@@ -1,0 +1,18 @@
+bin.v2\libs\wave\build\msvc-14.1\debug\link-static\threadapi-win32\threading-multi\libboost_wave-vc141-mt-gd-x32-1_67.lib
+已复制         1 个文件。
+mklink-or-dir boost\chrono\stopwatches
+为 boost\chrono\stopwatches <<===>> libs\chrono\stopwatches\include\boost\chrono\stopwatches 创建的联接
+link.hardlink boost\chrono\stopwatches.hpp
+为 boost\chrono\stopwatches.hpp <<===>> libs\chrono\stopwatches\include\boost\chrono\stopwatches.hpp 创建了硬链接
+...updated 2472 targets...
+
+
+The Boost C++ Libraries were successfully built!
+
+The following directory should be added to compiler include paths:
+
+    D:\lib\boost_1_67_0\boost_1_67_0
+
+The following directory should be added to linker library paths:
+
+    D:\lib\boost_1_67_0\boost_1_67_0\stage\lib
