@@ -20,7 +20,9 @@ data/
 log/
 cache/
 
-cmake-build-debug
+
+cmake-build-debug/
+cmake-build-release/
 
 
 
